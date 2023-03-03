@@ -1,5 +1,4 @@
 # microbit-roadshow
-Some pictures from the micro:bit roadshow outreach to schools
 
 | Micro:bit Roadshow Gallery from Foundation Academy, Plateau, Jos, Nigeria.      |
 | ----------- |
